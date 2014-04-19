@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		0B682F7C1902A53100835917 /* 地猫 4-18.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0B682F7B1902A53100835917 /* 地猫 4-18.jpg */; };
 		0B682F7F1902A87900835917 /* LVCelltTest.m in Sources */ = {isa = PBXBuildFile; fileRef = 0B682F7E1902A87900835917 /* LVCelltTest.m */; };
+		0B682F821902AA3200835917 /* Cellasdfasdfasdfasdfasdf.m in Sources */ = {isa = PBXBuildFile; fileRef = 0B682F811902AA3200835917 /* Cellasdfasdfasdfasdfasdf.m */; };
 		9E3652B41902754100AC9460 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9E3652B31902754100AC9460 /* Foundation.framework */; };
 		9E3652B61902754100AC9460 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9E3652B51902754100AC9460 /* CoreGraphics.framework */; };
 		9E3652B81902754100AC9460 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9E3652B71902754100AC9460 /* UIKit.framework */; };
@@ -40,6 +41,8 @@
 		0B682F7B1902A53100835917 /* 地猫 4-18.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "地猫 4-18.jpg"; sourceTree = "<group>"; };
 		0B682F7D1902A87900835917 /* LVCelltTest.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LVCelltTest.h; sourceTree = "<group>"; };
 		0B682F7E1902A87900835917 /* LVCelltTest.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LVCelltTest.m; sourceTree = "<group>"; };
+		0B682F801902AA3200835917 /* Cellasdfasdfasdfasdfasdf.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Cellasdfasdfasdfasdfasdf.h; sourceTree = "<group>"; };
+		0B682F811902AA3200835917 /* Cellasdfasdfasdfasdfasdf.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Cellasdfasdfasdfasdfasdf.m; sourceTree = "<group>"; };
 		9E3652B01902754100AC9460 /* SortXcodeProjectFileTest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SortXcodeProjectFileTest.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9E3652B31902754100AC9460 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		9E3652B51902754100AC9460 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -90,6 +93,8 @@
 		9E3652A71902754100AC9460 = {
 			isa = PBXGroup;
 			children = (
+				0B682F801902AA3200835917 /* Cellasdfasdfasdfasdfasdf.h */,
+				0B682F811902AA3200835917 /* Cellasdfasdfasdfasdfasdf.m */,
 				9E3652B21902754100AC9460 /* Frameworks */,
 				9E3652B11902754100AC9460 /* Products */,
 				9E3652B91902754100AC9460 /* SortXcodeProjectFileTest */,
@@ -283,6 +288,7 @@
 			files = (
 				9E3652C41902754100AC9460 /* LVAppDelegate.m in Sources */,
 				9E5A8B5E1902A54400FE6494 /* LVsssss.m in Sources */,
+				0B682F821902AA3200835917 /* Cellasdfasdfasdfasdfasdf.m in Sources */,
 				9E3652CA1902754100AC9460 /* LVViewController.m in Sources */,
 				9E3652C01902754100AC9460 /* main.m in Sources */,
 			);
