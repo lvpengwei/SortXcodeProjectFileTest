@@ -28,6 +28,7 @@
 		9E5A8B611902A8D500FE6494 /* LVddddd.m in Sources */ = {isa = PBXBuildFile; fileRef = 9E5A8B601902A8D500FE6494 /* LVddddd.m */; };
 		9E5A8B641902A9E400FE6494 /* LVsfssf.m in Sources */ = {isa = PBXBuildFile; fileRef = 9E5A8B631902A9E400FE6494 /* LVsfssf.m */; };
 		9EAAE95F1902AE4100EDA301 /* LVssssssssss.m in Sources */ = {isa = PBXBuildFile; fileRef = 9EAAE95E1902AE4100EDA301 /* LVssssssssss.m */; };
+		9EAAE9621902AF2000EDA301 /* LV.m in Sources */ = {isa = PBXBuildFile; fileRef = 9EAAE9611902AF2000EDA301 /* LV.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -73,6 +74,8 @@
 		9E5A8B631902A9E400FE6494 /* LVsfssf.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LVsfssf.m; sourceTree = "<group>"; };
 		9EAAE95D1902AE4100EDA301 /* LVssssssssss.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LVssssssssss.h; sourceTree = "<group>"; };
 		9EAAE95E1902AE4100EDA301 /* LVssssssssss.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LVssssssssss.m; sourceTree = "<group>"; };
+		9EAAE9601902AF2000EDA301 /* LV.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LV.h; sourceTree = "<group>"; };
+		9EAAE9611902AF2000EDA301 /* LV.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LV.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -134,7 +137,6 @@
 		9E3652B91902754100AC9460 /* SortXcodeProjectFileTest */ = {
 			isa = PBXGroup;
 			children = (
-				9E3652BA1902754100AC9460 /* Supporting Files */,
 				9E3652CB1902754100AC9460 /* Images.xcassets */,
 				9E3652C21902754100AC9460 /* LVAppDelegate.h */,
 				9E3652C31902754100AC9460 /* LVAppDelegate.m */,
@@ -149,6 +151,7 @@
 				9E3652C81902754100AC9460 /* LVViewController.h */,
 				9E3652C91902754100AC9460 /* LVViewController.m */,
 				9E3652C51902754100AC9460 /* Main.storyboard */,
+				9E3652BA1902754100AC9460 /* Supporting Files */,
 				0B682F7B1902A53100835917 /* 地猫 4-18.jpg */,
 			);
 			path = SortXcodeProjectFileTest;
@@ -158,6 +161,8 @@
 			isa = PBXGroup;
 			children = (
 				9E3652BC1902754100AC9460 /* InfoPlist.strings */,
+				9EAAE9601902AF2000EDA301 /* LV.h */,
+				9EAAE9611902AF2000EDA301 /* LV.m */,
 				9E3652BF1902754100AC9460 /* main.m */,
 				9E3652BB1902754100AC9460 /* SortXcodeProjectFileTest-Info.plist */,
 				9E3652C11902754100AC9460 /* SortXcodeProjectFileTest-Prefix.pch */,
@@ -309,6 +314,7 @@
 				0B682F821902AA3200835917 /* Cellasdfasdfasdfasdfasdf.m in Sources */,
 				9E3652CA1902754100AC9460 /* LVViewController.m in Sources */,
 				9E3652C01902754100AC9460 /* main.m in Sources */,
+				9EAAE9621902AF2000EDA301 /* LV.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
