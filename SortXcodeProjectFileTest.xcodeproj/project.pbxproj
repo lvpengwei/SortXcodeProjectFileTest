@@ -258,7 +258,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "perl sort-Xcode-project-file $PROJECT_FILE_PATH";
+			shellScript = "cd Scripts\nperl -w sort-Xcode-project-file $PROJECT_FILE_PATH";
 		};
 /* End PBXShellScriptBuildPhase section */
 
