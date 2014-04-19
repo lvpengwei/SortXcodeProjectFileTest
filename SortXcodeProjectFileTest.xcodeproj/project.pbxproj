@@ -25,6 +25,7 @@
 		9E3652DF1902754100AC9460 /* SortXcodeProjectFileTestTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 9E3652DE1902754100AC9460 /* SortXcodeProjectFileTestTests.m */; };
 		9E5A8B5E1902A54400FE6494 /* LVsssss.m in Sources */ = {isa = PBXBuildFile; fileRef = 9E5A8B5D1902A54400FE6494 /* LVsssss.m */; };
 		9E5A8B611902A8D500FE6494 /* LVddddd.m in Sources */ = {isa = PBXBuildFile; fileRef = 9E5A8B601902A8D500FE6494 /* LVddddd.m */; };
+		9E5A8B641902A9E400FE6494 /* LVsfssf.m in Sources */ = {isa = PBXBuildFile; fileRef = 9E5A8B631902A9E400FE6494 /* LVsfssf.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -64,6 +65,8 @@
 		9E5A8B5D1902A54400FE6494 /* LVsssss.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LVsssss.m; sourceTree = "<group>"; };
 		9E5A8B5F1902A8D500FE6494 /* LVddddd.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LVddddd.h; sourceTree = "<group>"; };
 		9E5A8B601902A8D500FE6494 /* LVddddd.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LVddddd.m; sourceTree = "<group>"; };
+		9E5A8B621902A9E400FE6494 /* LVsfssf.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LVsfssf.h; sourceTree = "<group>"; };
+		9E5A8B631902A9E400FE6494 /* LVsfssf.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LVsfssf.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -128,6 +131,8 @@
 				9E3652C21902754100AC9460 /* LVAppDelegate.h */,
 				9E3652C31902754100AC9460 /* LVAppDelegate.m */,
 				9E5A8B5F1902A8D500FE6494 /* LVddddd.h */,
+				9E5A8B621902A9E400FE6494 /* LVsfssf.h */,
+				9E5A8B631902A9E400FE6494 /* LVsfssf.m */,
 				9E5A8B601902A8D500FE6494 /* LVddddd.m */,
 				9E5A8B5C1902A54400FE6494 /* LVsssss.h */,
 				9E5A8B5D1902A54400FE6494 /* LVsssss.m */,
@@ -289,6 +294,7 @@
 				9E3652C41902754100AC9460 /* LVAppDelegate.m in Sources */,
 				9E5A8B611902A8D500FE6494 /* LVddddd.m in Sources */,
 				9E5A8B5E1902A54400FE6494 /* LVsssss.m in Sources */,
+				9E5A8B641902A9E400FE6494 /* LVsfssf.m in Sources */,
 				9E3652CA1902754100AC9460 /* LVViewController.m in Sources */,
 				9E3652C01902754100AC9460 /* main.m in Sources */,
 			);
