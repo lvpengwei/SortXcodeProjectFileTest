@@ -61,8 +61,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				9E3652B61902754100AC9460 /* CoreGraphics.framework in Frameworks */,
-				9E3652B81902754100AC9460 /* UIKit.framework in Frameworks */,
 				9E3652B41902754100AC9460 /* Foundation.framework in Frameworks */,
+				9E3652B81902754100AC9460 /* UIKit.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -70,9 +70,9 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				9E3652D31902754100AC9460 /* XCTest.framework in Frameworks */,
-				9E3652D51902754100AC9460 /* UIKit.framework in Frameworks */,
 				9E3652D41902754100AC9460 /* Foundation.framework in Frameworks */,
+				9E3652D51902754100AC9460 /* UIKit.framework in Frameworks */,
+				9E3652D31902754100AC9460 /* XCTest.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -82,10 +82,10 @@
 		9E3652A71902754100AC9460 = {
 			isa = PBXGroup;
 			children = (
-				9E3652B91902754100AC9460 /* SortXcodeProjectFileTest */,
-				9E3652D81902754100AC9460 /* SortXcodeProjectFileTestTests */,
 				9E3652B21902754100AC9460 /* Frameworks */,
 				9E3652B11902754100AC9460 /* Products */,
+				9E3652B91902754100AC9460 /* SortXcodeProjectFileTest */,
+				9E3652D81902754100AC9460 /* SortXcodeProjectFileTestTests */,
 			);
 			sourceTree = "<group>";
 		};
@@ -101,8 +101,8 @@
 		9E3652B21902754100AC9460 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				9E3652B31902754100AC9460 /* Foundation.framework */,
 				9E3652B51902754100AC9460 /* CoreGraphics.framework */,
+				9E3652B31902754100AC9460 /* Foundation.framework */,
 				9E3652B71902754100AC9460 /* UIKit.framework */,
 				9E3652D21902754100AC9460 /* XCTest.framework */,
 			);
@@ -112,13 +112,13 @@
 		9E3652B91902754100AC9460 /* SortXcodeProjectFileTest */ = {
 			isa = PBXGroup;
 			children = (
+				9E3652BA1902754100AC9460 /* Supporting Files */,
+				9E3652CB1902754100AC9460 /* Images.xcassets */,
 				9E3652C21902754100AC9460 /* LVAppDelegate.h */,
 				9E3652C31902754100AC9460 /* LVAppDelegate.m */,
-				9E3652C51902754100AC9460 /* Main.storyboard */,
 				9E3652C81902754100AC9460 /* LVViewController.h */,
 				9E3652C91902754100AC9460 /* LVViewController.m */,
-				9E3652CB1902754100AC9460 /* Images.xcassets */,
-				9E3652BA1902754100AC9460 /* Supporting Files */,
+				9E3652C51902754100AC9460 /* Main.storyboard */,
 			);
 			path = SortXcodeProjectFileTest;
 			sourceTree = "<group>";
@@ -126,9 +126,9 @@
 		9E3652BA1902754100AC9460 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				9E3652BB1902754100AC9460 /* SortXcodeProjectFileTest-Info.plist */,
 				9E3652BC1902754100AC9460 /* InfoPlist.strings */,
 				9E3652BF1902754100AC9460 /* main.m */,
+				9E3652BB1902754100AC9460 /* SortXcodeProjectFileTest-Info.plist */,
 				9E3652C11902754100AC9460 /* SortXcodeProjectFileTest-Prefix.pch */,
 			);
 			name = "Supporting Files";
@@ -137,8 +137,8 @@
 		9E3652D81902754100AC9460 /* SortXcodeProjectFileTestTests */ = {
 			isa = PBXGroup;
 			children = (
-				9E3652DE1902754100AC9460 /* SortXcodeProjectFileTestTests.m */,
 				9E3652D91902754100AC9460 /* Supporting Files */,
+				9E3652DE1902754100AC9460 /* SortXcodeProjectFileTestTests.m */,
 			);
 			path = SortXcodeProjectFileTestTests;
 			sourceTree = "<group>";
@@ -146,8 +146,8 @@
 		9E3652D91902754100AC9460 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				9E3652DA1902754100AC9460 /* SortXcodeProjectFileTestTests-Info.plist */,
 				9E3652DB1902754100AC9460 /* InfoPlist.strings */,
+				9E3652DA1902754100AC9460 /* SortXcodeProjectFileTestTests-Info.plist */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
@@ -251,8 +251,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				9E3652C41902754100AC9460 /* LVAppDelegate.m in Sources */,
-				9E3652C01902754100AC9460 /* main.m in Sources */,
 				9E3652CA1902754100AC9460 /* LVViewController.m in Sources */,
+				9E3652C01902754100AC9460 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
