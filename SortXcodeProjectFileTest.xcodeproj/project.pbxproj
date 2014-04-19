@@ -162,6 +162,7 @@
 				9E3652AC1902754100AC9460 /* Sources */,
 				9E3652AD1902754100AC9460 /* Frameworks */,
 				9E3652AE1902754100AC9460 /* Resources */,
+				9E3652ED1902798700AC9460 /* ShellScript */,
 			);
 			buildRules = (
 			);
@@ -244,6 +245,22 @@
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		9E3652ED1902798700AC9460 /* ShellScript */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "perl sort-Xcode-project-file $PROJECT_FILE_PATH";
+		};
+/* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
 		9E3652AC1902754100AC9460 /* Sources */ = {
@@ -457,6 +474,7 @@
 				9E3652E41902754100AC9460 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		9E3652E51902754100AC9460 /* Build configuration list for PBXNativeTarget "SortXcodeProjectFileTestTests" */ = {
 			isa = XCConfigurationList;
@@ -465,6 +483,7 @@
 				9E3652E71902754100AC9460 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
