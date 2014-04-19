@@ -131,9 +131,9 @@
 				9E3652C21902754100AC9460 /* LVAppDelegate.h */,
 				9E3652C31902754100AC9460 /* LVAppDelegate.m */,
 				9E5A8B5F1902A8D500FE6494 /* LVddddd.h */,
+				9E5A8B601902A8D500FE6494 /* LVddddd.m */,
 				9E5A8B621902A9E400FE6494 /* LVsfssf.h */,
 				9E5A8B631902A9E400FE6494 /* LVsfssf.m */,
-				9E5A8B601902A8D500FE6494 /* LVddddd.m */,
 				9E5A8B5C1902A54400FE6494 /* LVsssss.h */,
 				9E5A8B5D1902A54400FE6494 /* LVsssss.m */,
 				9E3652C81902754100AC9460 /* LVViewController.h */,
@@ -159,9 +159,9 @@
 			isa = PBXGroup;
 			children = (
 				9E3652D91902754100AC9460 /* Supporting Files */,
-				9E3652DE1902754100AC9460 /* SortXcodeProjectFileTestTests.m */,
 				0B682F7D1902A87900835917 /* LVCelltTest.h */,
 				0B682F7E1902A87900835917 /* LVCelltTest.m */,
+				9E3652DE1902754100AC9460 /* SortXcodeProjectFileTestTests.m */,
 			);
 			path = SortXcodeProjectFileTestTests;
 			sourceTree = "<group>";
@@ -293,8 +293,8 @@
 			files = (
 				9E3652C41902754100AC9460 /* LVAppDelegate.m in Sources */,
 				9E5A8B611902A8D500FE6494 /* LVddddd.m in Sources */,
-				9E5A8B5E1902A54400FE6494 /* LVsssss.m in Sources */,
 				9E5A8B641902A9E400FE6494 /* LVsfssf.m in Sources */,
+				9E5A8B5E1902A54400FE6494 /* LVsssss.m in Sources */,
 				9E3652CA1902754100AC9460 /* LVViewController.m in Sources */,
 				9E3652C01902754100AC9460 /* main.m in Sources */,
 			);
