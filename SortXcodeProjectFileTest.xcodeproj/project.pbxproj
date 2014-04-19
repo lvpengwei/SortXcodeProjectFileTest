@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0B682F7C1902A53100835917 /* 地猫 4-18.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0B682F7B1902A53100835917 /* 地猫 4-18.jpg */; };
 		9E3652B41902754100AC9460 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9E3652B31902754100AC9460 /* Foundation.framework */; };
 		9E3652B61902754100AC9460 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9E3652B51902754100AC9460 /* CoreGraphics.framework */; };
 		9E3652B81902754100AC9460 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9E3652B71902754100AC9460 /* UIKit.framework */; };
@@ -35,6 +36,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		0B682F7B1902A53100835917 /* 地猫 4-18.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "地猫 4-18.jpg"; sourceTree = "<group>"; };
 		9E3652B01902754100AC9460 /* SortXcodeProjectFileTest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SortXcodeProjectFileTest.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9E3652B31902754100AC9460 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		9E3652B51902754100AC9460 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -122,6 +124,7 @@
 				9E5A8B5C1902A54400FE6494 /* LVsssss.h */,
 				9E5A8B5D1902A54400FE6494 /* LVsssss.m */,
 				9E3652C81902754100AC9460 /* LVViewController.h */,
+				0B682F7B1902A53100835917 /* 地猫 4-18.jpg */,
 				9E3652C91902754100AC9460 /* LVViewController.m */,
 				9E3652C51902754100AC9460 /* Main.storyboard */,
 			);
@@ -238,6 +241,7 @@
 				9E3652CC1902754100AC9460 /* Images.xcassets in Resources */,
 				9E3652BE1902754100AC9460 /* InfoPlist.strings in Resources */,
 				9E3652C71902754100AC9460 /* Main.storyboard in Resources */,
+				0B682F7C1902A53100835917 /* 地猫 4-18.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
